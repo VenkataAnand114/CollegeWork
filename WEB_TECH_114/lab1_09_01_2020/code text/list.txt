@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+
+<HEAD>
+	<title>HTMLBASICS</title>
+
+<body>
+	<p>Name:B Venkata Anand Rollno:1602-17-737-114</p>
+	<ol type="I">
+		<li>
+			<h2>Semester Subjects</h2>
+		</li>
+		<ol type="1">
+			<li>Programming in C</li>
+			<li>Physics-I</li>
+			<li>Chemistry-I</li>
+		</ol>
+		<li>
+			<h2>Semester Subjects</h2>
+		</li>
+		<ol type="I">
+			<li>Object Oriented Programming</li>
+			<li>Physics-II</li>
+			<li>Chemistry-II</li>
+		</ol>
+		<li>
+			<h2>Semester Subjects</h2>
+		</li>
+		<ol type="i">
+			<li>Data Structures</li>
+			<li>Probability and Statistics</li>
+			<li>Java programming</li>
+		</ol>
+		<li>
+			<h2>Semester Subjects</h2>
+		</li>
+		<ol type="A">
+			<li>Computer Networks</li>
+			<li>Operating Systems</li>
+			<li>Theory of Automata</li>
+		</ol>
+		<li>
+			<h2>Semester Subjects</h2>
+		</li>
+		<ol type="a">
+			<li>Web Technologies</li>
+			<li>Software Engineering</li>
+			<li>Embedded Systems</li>
+		</ol>
+	</ol>
+</body>
+</HEAD>
